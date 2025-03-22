@@ -51,4 +51,4 @@ The project is deployed via **GitHub Pages**. You can view the live version [her
 
 ## Author
 
-This project was created as part of the **GoIT Frontend Development Course** to practice fundamental HTML structuring principles.
+This project was created as part of the **GoIT FullStack Development Course** to practice fundamental HTML structuring principles.
