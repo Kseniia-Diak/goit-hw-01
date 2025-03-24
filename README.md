@@ -1,6 +1,6 @@
 # WebStudio Markup Project
 
-This project is part of the **GoIT Frontend Development Course**, specifically the first homework assignment (_goit-markup-hw-01_). The goal is to create an HTML markup for the provided layout without applying CSS styling.
+This project is part of the **GoIT Frontend Development Course**, specifically the first homework assignment (_goit-hw-01_). The goal is to create an HTML markup for the provided layout without applying CSS styling.
 
 ## Project Overview
 
